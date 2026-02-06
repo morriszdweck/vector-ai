@@ -13,7 +13,9 @@ The AI will use a code-like system to execute multiple tasks at once, so for exa
 user: send an email to example@icloud.com and then open the mail app.
 
 MAIL|example@icloud.com|Example title|Example text
+
 URL|message://
+
 QRESPONSE|I've sent the test email and opened the mail app for you, anything else i can help with?
 
 history will sadly not be supported unless someone finds an efficient way to add it.
