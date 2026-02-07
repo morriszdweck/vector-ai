@@ -19,3 +19,8 @@ URL|message://
 QRESPONSE|I've sent the test email and opened the mail app for you, anything else i can help with?
 
 history will sadly not be supported unless someone finds an efficient way to add it.
+
+What we currently need:
+- Someone to market (not needed, but best if we do)
+- Someone to integrate Search into the shortcut
+- Someone to integrate on screen context (via text extraction)
