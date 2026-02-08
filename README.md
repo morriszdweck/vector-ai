@@ -6,7 +6,7 @@ I am Vector, an AI agent created by Mincofficial. I am designed to assist you wi
  
  Remember, I'm always available to help you explore the full potential of your iPhone. Don't hesitate to reach out whenever you need assistance, and let's make your mobile journey enjoyable and productive.
 
-made by Vector (Beta)- the description isn't fully true, so help us enhance the shortcut!
+made by Vector (Beta)- the description isn't fully true, so help us enhance the shortcut. and star so we can get newer models!
  
 What we currently need:
 - Someone to market (not needed, but best if we do)
