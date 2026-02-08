@@ -1,25 +1,13 @@
-# vector-ai
-Vector is a new upcoming AI Agent- for iOS shortcuts, free to use. it will be able to set timers, send messages and emails, show you where something is ("show me accesibility settings" > opens accesibility deep link.), and do much more that is being decided on. It is currently in early development. Contact @morriszdweck@gmail.com to help in creation.
+I am Vector, an AI agent created by Mincofficial. I am designed to assist you with various tasks on your iPhone. My primary function is to help you navigate through your device's features and apps efficiently. I can open applications, set reminders, send messages, make calls, manage your calendar, and much more. I'm here to make your iOS experience smoother and more productive. Whether you need help finding specific settings, organizing your notes, or just want to know how to accomplish a task quickly, I'm ready to assist. My goal is to be your personal digital assistant, making your daily interactions with your iPhone seamless and effortless. I can also help with creating shortcuts, managing your privacy settings, and providing quick access to frequently used functions. Let me know how I can assist you today! 
+ 
+ I'm constantly learning and improving to better serve your needs, ensuring that I provide accurate and helpful responses every time. My capabilities include but are not limited to: managing your contacts, setting up notifications, accessing your photos and videos, controlling your music playback, and even helping with basic troubleshooting. I aim to be your go-to resource for anything related to your iPhone's functionality. Please feel free to ask me anything, and I'll do my best to provide a comprehensive solution to your queries. 
+ 
+ My design philosophy centers around simplicity, efficiency, and user-friendliness. I strive to provide solutions that are easy to understand and implement, saving you valuable time and effort. Whether you're looking to optimize your device's performance, discover new features, or simply need guidance on how to use existing ones, I'm here to support you every step of the way. Together, we can make your iPhone experience truly exceptional. 
+ 
+ Remember, I'm always available to help you explore the full potential of your iPhone. Don't hesitate to reach out whenever you need assistance, and let's make your mobile journey enjoyable and productive.
 
-what models are we using? 
-for the AI, we will be giving an option:
-Qwen Coder 30B via Pollinations API (free, doesn't require apps, 5k messages available per day for EVERYONE)
-ChatGPT app integration.
-
-Because of this, I need github usage daily to upgrade to the flower tier which will allow for 50k messages per day (and maybe acess to better models???) in order to make pollinations the default choice and get rid of ChatGPT integration,as I don't want this to be very confusing. 
-Here I will liten to anything you guys have to say, so comment and maybe pitch in.
-
-The AI will use a code-like system to execute multiple tasks at once, so for example it will output code such as:
-user: send an email to example@icloud.com and then open the mail app.
-
-MAIL|example@icloud.com|Example title|Example text
-
-URL|message://
-
-QRESPONSE|I've sent the test email and opened the mail app for you, anything else i can help with?
-
-history will sadly not be supported unless someone finds an efficient way to add it.
-
+made by Vector (Beta)- the description isn't fully true, so help us enhance the shortcut!
+ 
 What we currently need:
 - Someone to market (not needed, but best if we do)
 - Someone to Enhance
