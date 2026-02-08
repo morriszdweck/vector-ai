@@ -22,5 +22,4 @@ history will sadly not be supported unless someone finds an efficient way to add
 
 What we currently need:
 - Someone to market (not needed, but best if we do)
-- Someone to integrate Search into the shortcut
-- Someone to integrate on screen context (via text extraction)
+- Someone to Enhance
