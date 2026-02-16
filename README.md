@@ -11,3 +11,4 @@ made by Vector (Beta)- the description isn't fully true, so help us enhance the 
 What we currently need:
 - Someone to market (not needed, but best if we do)
 - Someone to Enhance
+-someone to make sure its good lol
